@@ -1,0 +1,20 @@
+
+.contacts{
+    margin-bottom: 80px;
+}
+
+.contacts-group{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 62px;
+}
+
+.contacts-title{
+    color: #999999;
+    padding-top: 12px;
+}
+
+.info{
+    color: #F7654A;
+}

@@ -1,0 +1,40 @@
+
+.smart{
+    background-color: #F7654A;
+    height: 160px;
+    padding-top: 29px;
+    margin-top: 100px;
+    margin-bottom: 130px;
+}
+
+.smart-desc{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: white;
+}
+
+.smart-title h1{
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+.smart-title p{
+    font-size: 26px;
+}
+
+.smart-mail{
+    padding-top: 32px;
+}
+
+.div-mail{
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    padding: 10px 20px;
+    font-weight: 600;
+}
+
+.img-mail{
+    padding-right: 14px;
+}

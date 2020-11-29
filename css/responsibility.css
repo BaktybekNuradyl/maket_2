@@ -1,0 +1,20 @@
+
+
+.resp-group{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 37px;
+}
+
+.resp-card{
+    background-color: #F7F7F7;
+    padding: 42px 90px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.card-desc{
+    padding-top: 15px;
+}

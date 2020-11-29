@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+}
+
+.header{
+    background-image: url(../img/Rectangle.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    position: absolute;
+    top: 0;
+    right: auto;
+    width: 100%;
+
+}
+
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+
+.header-title{
+    text-align: center;
+    color: white;
+    padding-top: 148px;
+}

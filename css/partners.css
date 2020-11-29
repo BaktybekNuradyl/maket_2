@@ -1,0 +1,19 @@
+
+.partners{
+    background-color: #404149;
+    margin-top: 90px;
+    height: 260px;
+    margin-bottom: 124px;
+}
+
+.partners-title{
+    color: white;
+    text-transform: uppercase;
+    padding-top: 77px
+}
+
+.partners-group{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 16px;
+}

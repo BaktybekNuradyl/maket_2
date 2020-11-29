@@ -1,0 +1,63 @@
+.content{
+    position: relative;
+    z-index: 1;
+    padding-top: 405px;
+}
+
+.content-group{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color: #F7F7F7;
+}
+
+.content-desc{
+    padding: 6px 56px;
+}
+
+h3{
+    color: #F7654A;
+    font-size: 64px;
+}
+
+.age{
+    font-size: 33px;
+    font-weight: 500;
+}
+
+.market{
+    font-size: 15px;
+    font-weight: 300;
+}
+
+
+
+h2{
+    text-align: center;
+    margin-top: 40px;
+    text-transform: uppercase;
+}
+
+.row
+{
+    margin-top: 20px;
+}
+
+.border-img{
+    border-bottom:3px solid #F7654A;
+    padding-top: 22px;
+    max-width: 69px;
+}
+
+.card{
+    border: none;
+}
+.card-body{
+    padding: 0;
+}
+
+.card-title {
+    text-align: left;
+    margin-top: 28px;
+}
